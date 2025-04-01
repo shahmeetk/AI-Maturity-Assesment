@@ -1,0 +1,81 @@
+{
+    "maturity_levels": {
+        "1": {
+            "name": "Ad Hoc",
+            "color": "#FF6666",
+            "definition": "Experimental with no structured approach. Models isolated with inconsistent processes."
+        },
+        "2": {
+            "name": "Repeatable",
+            "color": "#FFCC66",
+            "definition": "Processes repeatable but inconsistent. Minimal governance and standardization."
+        },
+        "3": {
+            "name": "Defined",
+            "color": "#FFFF66",
+            "definition": "Documented strategies and governance, consistent organization-wide."
+        },
+        "4": {
+            "name": "Optimized",
+            "color": "#CCFF66",
+            "definition": "Integrated with measurable KPIs. Processes well-governed and continuously improved."
+        },
+        "5": {
+            "name": "Innovative",
+            "color": "#66CC66",
+            "definition": "AI is key driver for innovation and continuous improvement with proactive governance."
+        }
+    },
+    "domains": {
+        "AI Discovery & Use Case Development": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "AI Strategy & Governance": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "AI Infrastructure & Compute": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "AI Model Development & Experimentation": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "AI Deployment & MLOps": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "AI Governance & Compliance": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "AI Bias Detection & Ethical AI": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "Cost Management and Workload Optimization": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "AI Performance Optimization": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        },
+        "AI Automation & Decision Making": {
+            "Plan & Design": "",
+            "Implement": "",
+            "Operate & Improve": ""
+        }
+    }
+}
